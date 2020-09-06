@@ -1,0 +1,21 @@
+.leftCell {
+  width: 48%;
+  margin-right: auto;
+}
+
+.rightCell {
+  width: 48%;
+  margin-left: auto;
+}
+
+.oneCell {
+  width: 100%;
+}
+
+.row {
+  padding: 0;
+  margin: 0;
+  font-family: monospace;
+  font-size: 12px;
+  display: flex;
+}
